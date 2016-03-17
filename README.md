@@ -5,4 +5,4 @@ This is data for a Digital Liberal Arts Initiative workshop held at Middlebury d
 
 Documentation and crowd-sourced notes for this workshop can be found at:
 
-[https://docs.google.com/document/d/1TdxbN_99KbzzdjH3ydhEQsaLircIlNiU3o55_Z5Rq1U/edit#](Workshop Documentation & Notes)
+[Workshop Documentation & Notes](https://docs.google.com/document/d/1TdxbN_99KbzzdjH3ydhEQsaLircIlNiU3o55_Z5Rq1U/edit#)
